@@ -13,4 +13,6 @@ It includes two main components:
 - Add validation for inputs
 - Implement security using Spring Security
 - Enhance error handling with custom exceptions and error responses
+  (implement error handling when trying to delete a client with associated sentiments in the DB)
 - Add Unit and Integrayion Tests
+- Use DTOs (Data Transfer Objects) to better structure and manage incoming and outgoing data in the API.
